@@ -43,6 +43,7 @@ body {
 .grid-template {
   display: grid;
   min-width: calc(100vw - 4rem);
+  max-width: 500px;
 
   grid-template-columns: 1fr;
   grid-template-rows: minmax(200px, 1fr) minmax(200px, 1fr) minmax(200px, 1fr);
