@@ -165,6 +165,8 @@ body {
   body {
     min-width: 90rem;
     padding: 10rem 25rem;
+    width: 100vw;
+    height: 100vh;
   }
 
   html {
